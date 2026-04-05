@@ -14,3 +14,4 @@ contract MemoContract {
         message = _newMessage;
     }
 }
+Improve contract structure
