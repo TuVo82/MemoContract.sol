@@ -15,3 +15,4 @@ contract MemoContract {
     }
 }
 Improve contract structure
+Update function visibility
