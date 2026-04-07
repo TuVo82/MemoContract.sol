@@ -16,3 +16,4 @@ contract MemoContract {
 }
 Improve contract structure
 Update function visibility
+Add fallback function
