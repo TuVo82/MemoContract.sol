@@ -18,4 +18,5 @@ Improve contract structure
 Update function visibility
 Add fallback function
 Clean unused variables
+Update function visibility
 
