@@ -19,4 +19,4 @@ Update function visibility
 Add fallback function
 Clean unused variables
 Update function visibility
-
+Refactor contract layout
