@@ -20,3 +20,4 @@ Add fallback function
 Clean unused variables
 Update function visibility
 Refactor contract layout
+Add require statements
